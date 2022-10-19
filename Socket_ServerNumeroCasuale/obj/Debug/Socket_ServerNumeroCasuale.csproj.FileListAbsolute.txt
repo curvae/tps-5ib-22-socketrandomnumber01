@@ -1,0 +1,11 @@
+C:\Users\fede0\OneDrive\Desktop\Moretti_SocketNumeroCasuale\Socket_ServerNumeroCasuale\bin\Debug\Socket_ServerNumeroCasuale.exe.config
+C:\Users\fede0\OneDrive\Desktop\Moretti_SocketNumeroCasuale\Socket_ServerNumeroCasuale\bin\Debug\Socket_ServerNumeroCasuale.exe
+C:\Users\fede0\OneDrive\Desktop\Moretti_SocketNumeroCasuale\Socket_ServerNumeroCasuale\bin\Debug\Socket_ServerNumeroCasuale.pdb
+C:\Users\fede0\OneDrive\Desktop\Moretti_SocketNumeroCasuale\Socket_ServerNumeroCasuale\obj\Debug\Socket_ServerNumeroCasuale.csproj.AssemblyReference.cache
+C:\Users\fede0\OneDrive\Desktop\Moretti_SocketNumeroCasuale\Socket_ServerNumeroCasuale\obj\Debug\Socket_ServerNumeroCasuale.csproj.SuggestedBindingRedirects.cache
+C:\Users\fede0\OneDrive\Desktop\Moretti_SocketNumeroCasuale\Socket_ServerNumeroCasuale\obj\Debug\Socket_ServerNumeroCasuale.Form1.resources
+C:\Users\fede0\OneDrive\Desktop\Moretti_SocketNumeroCasuale\Socket_ServerNumeroCasuale\obj\Debug\Socket_ServerNumeroCasuale.Properties.Resources.resources
+C:\Users\fede0\OneDrive\Desktop\Moretti_SocketNumeroCasuale\Socket_ServerNumeroCasuale\obj\Debug\Socket_ServerNumeroCasuale.csproj.GenerateResource.cache
+C:\Users\fede0\OneDrive\Desktop\Moretti_SocketNumeroCasuale\Socket_ServerNumeroCasuale\obj\Debug\Socket_ServerNumeroCasuale.csproj.CoreCompileInputs.cache
+C:\Users\fede0\OneDrive\Desktop\Moretti_SocketNumeroCasuale\Socket_ServerNumeroCasuale\obj\Debug\Socket_ServerNumeroCasuale.exe
+C:\Users\fede0\OneDrive\Desktop\Moretti_SocketNumeroCasuale\Socket_ServerNumeroCasuale\obj\Debug\Socket_ServerNumeroCasuale.pdb
